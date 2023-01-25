@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d4faf18-548c-4b3c-9724-8f99995e64ee" name="Changes" comment="Added Car class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Engine.java" afterDir="false" />
+    <list default="true" id="8d4faf18-548c-4b3c-9724-8f99995e64ee" name="Changes" comment="studied has-a relationship">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/AutoVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +24,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a84bc368-a837-481c-b1ec-92ecf06d9d37" />
+        <option name="url" value="https://github.com/tavimunteanu/Racing_Game.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -88,7 +101,7 @@
       <workItem from="1674495269369" duration="5572000" />
       <workItem from="1674580802454" duration="2624000" />
       <workItem from="1674665866635" duration="1122000" />
-      <workItem from="1674667108172" duration="1221000" />
+      <workItem from="1674667108172" duration="2978000" />
     </task>
     <task id="LOCAL-00001" summary="Added Car class">
       <created>1674666827810</created>
@@ -97,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674666827810</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="studied has-a relationship">
+      <created>1674668617526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674668617526</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Car class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Car class" />
+    <MESSAGE value="studied has-a relationship" />
+    <option name="LAST_COMMIT_MESSAGE" value="studied has-a relationship" />
   </component>
 </project>

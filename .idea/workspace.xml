@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d4faf18-548c-4b3c-9724-8f99995e64ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8d4faf18-548c-4b3c-9724-8f99995e64ee" name="Changes" comment="Added Car class">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Engine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,11 +87,24 @@
       <workItem from="1674494962547" duration="250000" />
       <workItem from="1674495269369" duration="5572000" />
       <workItem from="1674580802454" duration="2624000" />
-      <workItem from="1674665866635" duration="616000" />
+      <workItem from="1674665866635" duration="1122000" />
+      <workItem from="1674667108172" duration="1221000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Car class">
+      <created>1674666827810</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674666827810</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Car class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Car class" />
   </component>
 </project>
